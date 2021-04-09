@@ -1,5 +1,3 @@
 Modificación 1
 
 prueba recuperar commit
-
-linea que simulará error
