@@ -1,1 +1,2 @@
 texto que no omite
+emitirá esta modificación
