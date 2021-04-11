@@ -2,3 +2,4 @@ texto que no omite
 emitirá esta modificación
 esta si omitirá
 cambio en esta rama
+cambio numero dos en rama nueva
