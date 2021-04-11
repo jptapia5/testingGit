@@ -1,2 +1,3 @@
 texto que no omite
 emitirá esta modificación
+esta si omitirá
